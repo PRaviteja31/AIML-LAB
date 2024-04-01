@@ -6,4 +6,4 @@
 4.[ass_6](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assignment6.ipynb)
 5.[ass_7](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assignment7.ipynb)
 
-6.[ass_8](https://colab.research.google.com/drive/17DhZjJCFoKOYbFeGvzmH2sWzo7ZeBfYc#scrollTo=jFPfLL3wPgxu)
+6.[ass_8](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assignment8.ipynb)
