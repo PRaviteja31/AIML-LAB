@@ -5,3 +5,5 @@
 3.[ass_5](https://colab.research.google.com/drive/1JcIsTW1omFOJ7PnePGnpX7xlrdzGyCz5#scrollTo=EXboSGYwFViG&uniqifier=1)
 4.[ass_6](https://colab.research.google.com/drive/14VI9FaILU3zgOL9QqyX_Pea5CVOKHSng#scrollTo=bxcOLNzwJp2A)
 5.[ass_7](https://colab.research.google.com/drive/1k1tGFIEltjboyomca1pLmtENddOdLdc6#scrollTo=Mwb3QhJPKI_d)
+
+6.[ass_8](https://colab.research.google.com/drive/17DhZjJCFoKOYbFeGvzmH2sWzo7ZeBfYc#scrollTo=jFPfLL3wPgxu)
