@@ -7,3 +7,6 @@
 5.[ass_7](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assignment7.ipynb)
 
 6.[ass_8](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assignment8.ipynb)
+
+
+7.[ass_9](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assigment_9.ipynb)
