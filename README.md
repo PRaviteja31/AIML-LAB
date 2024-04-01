@@ -10,3 +10,5 @@
 
 
 7.[ass_9](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assigment_9.ipynb)
+
+8.[ass_10](https://github.com/PRaviteja31/AIML-LAB/blob/main/Assigment_10.ipynb)
